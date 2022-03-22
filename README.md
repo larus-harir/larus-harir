@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </p>
 
-<h2>I learned this</h2>
+<h2>I learned this in <a href="http://intec.icehs.kr/"><img src="https://img.shields.io/badge/INMAGO-18268D?style=flat-square&logo=INMAGO&logoColor=white"></a> </h2> 
 
 <p>
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
