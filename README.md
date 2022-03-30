@@ -1,7 +1,6 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=soft&color=FF7F50&height=300&section=header&text=Larus-Harir&fontColor=ffffff&fontSize=60)
-  
 </div>
 
 <h1 align="center">I luv this</h1>
